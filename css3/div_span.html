@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+	<head>  <!--aqui dentro do head vai ficar as informacoes-->
+		<title>Div e Span</title>
+		<meta charset="utf-8">
+
+		<style type="text/css">			/**Aqui abrem os estilos css**/
+
+		/**----IDs----**/
+		#topo{							
+			background: #A9E2F3;
+		}
+
+		#conteudo {
+			background: #F7BE81;
+		}
+
+		#rodape {
+			background: #A9F5BC;
+		}
+
+		#assinatura {
+			background: pink;
+		}
+
+		/**----Classes---**/
+		.produto {
+			background: #E6E6E6;
+			width: 100px;
+			margin: 2px;
+		}
+
+		.azul {
+			color: blue;
+			background: white;
+		}
+
+		</style>
+	</head>
+
+	<body>
+
+		<div id="topo">						<!--div sao do tipo block, um abaixo do outro-->
+			<img src="img/ap_logo.png" width="200">
+			<ul>
+				<li>Home</li>
+				<li>Produtos</li>
+				<li>Contato</li>
+			</ul>			
+		</div>
+
+		<div id="conteudo">
+			<div class="produto">
+				Produto 1
+			</div>
+			
+			<div class="produto">
+				Produto 2
+			</div>
+
+			<div class="produto">
+				Produto 3
+			</div>
+		</div>
+
+		<div id="rodape">
+			<em>Todos os <span class="azul">direitos</span> reservados</em>
+		</div>
+
+		<span id="assinatura">	<!--Span eh do tipo inline, agrupa os elementos linha a linha-->
+			Joao  
+		</span>
+
+		<span>
+			Padilha Souza
+		</span>
+
+
+	</body>
+
+</html>
