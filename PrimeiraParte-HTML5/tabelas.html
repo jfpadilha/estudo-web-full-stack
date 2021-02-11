@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Tabelas</title>
+		<meta charset="utf-8">
+	</head>
+
+	<body>
+		<a href="index.html">
+			Home</a>
+
+			<h2>Produtos</h2>
+
+		<table border="1">
+			<tr> 					<!-- table row,linha da tabela-->
+				<th>Código</th>		<!--table head, cabeçalho da tabela-->
+				<th>Produto</th>
+				<th>preço</th>
+			</tr>
+			<tr>
+				<td>001</td>		<!--table data, dados da tabela-->
+				<td>Notebook</td>
+				<td>R$ 3512,35</td>
+			</tr>
+
+			<tr>
+				<td>002</td>
+				<td>Mouse</td>
+				<td>R$ 32,35</td>
+			</tr>
+		</table>
+
+		<hr>
+
+<!--segunda tabela-->
+
+		<table>
+			<table border="2" width="50%"> <!--pode definir pixels ou percent-->
+			<tr> 					<!-- table row,linha da tabela-->
+				<th>Código</th>		<!-- TH table head, título da tabela-->
+				<th>Produto</th>
+				<th>preço</th>
+			</tr>
+			<tr>
+				<td>001</td>		<!--TD table data, linhas da tabela-->
+				<td>Notebook</td>
+				<td>R$ 3512,35</td>
+			</tr>
+
+			<tr>
+				<td>002</td>
+				<td>				<!-- linha da tabela-->
+					<img src="img/ferrari_amarela.jpg" width="50" align="center">
+				</td>
+				<td>R$ 8999,00</td>				
+			</tr>
+
+			<tr>
+				<td rowspan="2">Desconto</td> <!--row (linha) span (extensão), vai fazer essa célular usar 2 linhas-->
+				<td colspan="2">Cupom 1 -R$10,00</td> <!--Col (coluna) span (extensão) aumentar a extensão da coluna, usar 2 colunas-->
+			</tr>
+
+			<tr>
+				<!--<td="2">Desconto</td> a linha de cima está usando este espaço-->
+				<td colspan="2">Cupom 2 -R$10</td> <!--row (linha) span (estensão) -->
+			</tr>
+
+			<tr>
+				<td><strong>Total:</strong></td>
+				<td colspan="2"><strong>R$ 3478,35</strong></td>
+			</tr>
+
+		</table>
+
+	</body>
+
+</html>
+

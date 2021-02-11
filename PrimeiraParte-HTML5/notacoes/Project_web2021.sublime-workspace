@@ -1,0 +1,308 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"em",
+				"em\tTag"
+			],
+			[
+				"e",
+				"em\tTag"
+			],
+			[
+				"ro",
+				"rowspan\tAttr"
+			],
+			[
+				"th",
+				"th\tTag"
+			],
+			[
+				"he",
+				"height\tAttr"
+			],
+			[
+				"h",
+				"h4\tTag"
+			],
+			[
+				"b",
+				"b\tTag"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"u",
+				"ul\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Notes.html",
+			"settings":
+			{
+				"buffer_size": 359,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<!DOCTYPE html>\n<html>\n\t<head>\n\t\t<title>Tabelas</title>\n\t\t<meta charset=\"utf-8\">\n\t</head>\n\n\t<body>\n\t\t<a href=\"index.html\">\n\t\t\tHome</a>\n\n\t\t\t<h2>Produtos</h2>\n\n\t\t<table border=\"1\">\n\t\t\t<tr> \t\t\t\t\t<!-- table row,linha da tabela-->\n\t\t\t\t<th>Código</th>\t\t<!--table head, cabeçalho da tabela-->\n\t\t\t\t<th>Produto</th>\n\t\t\t\t<th>preço</th>\n\t\t\t</tr>\n\t\t\t<tr>\n\t\t\t\t<td>001</td>\t\t<!--table data, dados da tabela-->\n\t\t\t\t<td>Notebook</td>\n\t\t\t\t<td>R$ 3512,35</td>\n\t\t\t</tr>\n\n\t\t\t<tr>\n\t\t\t\t<td>002</td>\n\t\t\t\t<td>Mouse</td>\n\t\t\t\t<td>R$ 32,35</td>\n\t\t\t</tr>\n\t\t</table>\n\n\t\t<hr>\n\n<!--segunda tabela-->\n\n\t\t<table>\n\t\t\t<table border=\"2\" width=\"50%\"> <!--pode definir pixels ou percent-->\n\t\t\t<tr> \t\t\t\t\t<!-- table row,linha da tabela-->\n\t\t\t\t<th>Código</th>\t\t<!-- TH table head, título da tabela-->\n\t\t\t\t<th>Produto</th>\n\t\t\t\t<th>preço</th>\n\t\t\t</tr>\n\t\t\t<tr>\n\t\t\t\t<td>001</td>\t\t<!--TD table data, linhas da tabela-->\n\t\t\t\t<td>Notebook</td>\n\t\t\t\t<td>R$ 3512,35</td>\n\t\t\t</tr>\n\n\t\t\t<tr>\n\t\t\t\t<td>002</td>\n\t\t\t\t<td>\t\t\t\t<!-- linha da tabela-->\n\t\t\t\t\t<img src=\"img/ferrari1.jpg\" width=\"50\" align=\"center\">\n\t\t\t\t</td>\n\t\t\t\t<td>R$ 8999,00</td>\t\t\t\t\n\t\t\t</tr>\n\n\t\t\t<tr>\n\t\t\t\t<td rowspan=\"2\">Desconto</td> <!--row (linha) span (extensão), vai fazer essa célular usar 2 linhas-->\n\t\t\t\t<td colspan=\"2\">Cupom 1 -R$10,00</td> <!--Col (coluna) span (extensão) aumentar a extensão da coluna, usar 2 colunas-->\n\t\t\t</tr>\n\n\t\t\t<tr>\n\t\t\t\t<!--<td=\"2\">Desconto</td> a linha de cima está usando este espaço-->\n\t\t\t\t<td colspan=\"2\">Cupom 2 -R$10</td> <!--row (linha) span (estensão) -->\n\t\t\t</tr>\n\n\t\t\t<tr>\n\t\t\t\t<td><strong>Total:</strong></td>\n\t\t\t\t<td colspan=\"2\"><strong>R$ 3478,35</strong></td>\n\t\t\t</tr>\n\n\t\t</table>\n\n\t</body>\n\n</html>",
+			"file": "PrimeiroProjeto/tabelas.html",
+			"file_size": 1740,
+			"file_write_time": 132552046613476578,
+			"settings":
+			{
+				"buffer_size": 1651,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Joao_files/Documentos/Desenvolvimento/CursoWeb_2021/PrimeiroProjeto/desafio1.html",
+		"/D/Joao_files/Documentos/Desenvolvimento/CursoWeb_2021/PrimeiroProjeto/projeto.html",
+		"/D/Joao_files/Documentos/Desenvolvimento/CursoWeb_2021/PrimeiroProjeto/Index.html",
+		"/D/Joao_files/Documentos/Uninter/Gestao de projetos.txt",
+		"/D/Joao_files/Documentos/Desenvolvimento/CursoWeb_2021/PrimeiroProjeto/imagens.html",
+		"/D/Joao_files/Documentos/Desenvolvimento/CursoWeb_2021/PrimeiroProjeto/contato.html",
+		"/D/Joao_files/Documentos/Solis/31/FrmIncentiveSearch.class",
+		"/D/Joao_files/Documentos/Desenvolvimento/CursoWeb_2021/Projeto Web/index.html",
+		"/D/Joao_files/Documentos/Desenvolvimento/CursoWeb_2021/Project_Aula/css/estilo-teste.css",
+		"/D/Joao_files/Documentos/Desenvolvimento/CursoWeb_2021/Project_Aula/index.html",
+		"/D/Joao_files/Documentos/Desenvolvimento/CursoWeb_2021/Aula_7/index.html",
+		"/D/Joao_files/Documentos/Uninter/Ingles Basico",
+		"/D/Joao_files/Documentos/Uninter/Empreendedorismo.txt",
+		"/C/Users/Joao/AppData/Local/Temp/Rar$DIa0.588/-+- PassssWord FilE 4 ExTraCtioN 77543210.txt",
+		"/C/Users/Joao/AppData/Local/Temp/Rar$DIa0.369/-+- PassssWord FilE 4 ExTraCtioN 77543210.txt",
+		"/D/Joao_files/Documentos_2/windows/seriais.txt",
+		"/D/Joao_files/Documentos_2/stacione/diversos/﻿infoGerencia.txt",
+		"/D/Joao_files/Documentos/Shell/configSistema",
+		"/D/Joao_files/Documentos/Desenvolvimento/NetBeansProjectsWeb/blablabla/src/dominio/Cidade.java",
+		"/D/Joao_files/Desktop/asd asd.txt",
+		"/D/Joao_files/Desktop/oneWay.txt"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"estratégia genérica",
+			"horizon",
+			"vantagen",
+			"fórmulas para identificar oportunidades",
+			"SWOT"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Notes.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 359,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								359,
+								359
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "PrimeiroProjeto/tabelas.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1651,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								816,
+								816
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 795.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Project_web2021.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 252.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

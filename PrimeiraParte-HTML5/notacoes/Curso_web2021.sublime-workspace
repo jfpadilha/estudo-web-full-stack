@@ -1,0 +1,485 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"he",
+				"height\tAttr"
+			],
+			[
+				"h",
+				"h4\tTag"
+			],
+			[
+				"b",
+				"b\tTag"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"u",
+				"ul\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Notes.html",
+			"settings":
+			{
+				"buffer_size": 359,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "PrimeiroProjeto/projeto.html",
+			"settings":
+			{
+				"buffer_size": 403,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "PrimeiroProjeto/imagens.html",
+			"settings":
+			{
+				"buffer_size": 172,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "PrimeiroProjeto/link.html",
+			"settings":
+			{
+				"buffer_size": 92,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "PrimeiroProjeto/Index.html",
+			"settings":
+			{
+				"buffer_size": 94,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "PrimeiroProjeto/desafio1.html",
+			"settings":
+			{
+				"buffer_size": 939,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "\n============== Aula 1 - generalidades ============== \n\n== o gerenciamento de projetos é a aplicação de conhecimentos, habilidades, ferramentas e técnicas às atividades do projeto a fim de atender aos seus requisitos.\n\n== gerenciamento de projetos é um esforço temporário empreendido para gerar um produto, serviço ou resultado\n\n- Frederick Taylor - quebrou o processo em tarefas\n- henry Gant - sequenciou as taregas\n\n== contextalização\nPDCA - Plan do Check Act\n\"prometa depois corra atras\"\n\nCHUTE - cálculo hipotético universal teoricamente embasado\n\n============= 1 Definições gerais\n\n== Projeto:\nA definição clássica diz que um projeto é um esforço temporário empreendido para criar um produto, serviço ou resultado exclusivo (PMI, 2013)\n\nou \n\né um empreendimento temporário feito para criar um produto, serviço ou resultado exclusivo.\n\n== Programa:\nQuando vários projetos existem para atingir objetivos correlacionados, então, eles são agrupados em um programa. Agrupando desta forma, fica mais seguro o atingimento dos objetivos de cada projeto para o bem maior do programa.\n\n== Portifólio:\nDiferentes programas existentes a fim de garantir o atingimento dos objetivos de negócios estratégicos de uma empresa. Ao agrupamento destes programas damos o nome de portfólio.\n\n============= 2 Papel do gerente de projetos\n- é o responsável designado pelo patrocinador do projeto, que vai conduzir de forma a atingir os objetivos\n\n- saber: ouvir, liderar, descidir, gerenciar as partes, planejar, agir, verificar e comunicar\n\n== Gerenciar o projeto é:\n- iniciar, planejar, executar e controlar as atividades\n\n== O que faz um grande gerente de projetos é a capacidade de ser o mastro da orquestra\n\n== A habilidade de liderança é o que faz a diferença\n\n== Habilidade de planejar, estruturar, conduzir uma boa reunião, capacidade técnica, exergar onde está o problema,\n\n== O gerente de projetos é um especialista em PMO (Project Management office), uma função nova no mercado de tecnologia\n\n== O gerente de projetos cuida para que os projetos tenha padrão, qualidade, planejamento e controle.\n\n============== 3 Ciclo de vida de um produto e de um projeto\n\n== ciclo de vida de um produto, é o tempo transcorrido entra a sua introdução no mercado até a sua retirada\n\n- introdução, crescimento, amadurecimento e declínio\n\n== Introdução\n- é o lançamento do produto no mercado até o crescimento das vendas\n\n== Crescimento\n- reconhecimento do produto no mercado e onde as vendas decolam\n\n== Amadurecimento\n- quando ocorrem vários outros produtos de concorrentes no mercado, começa a briga pelas fatias do mercado, maior fase, requer busca de oportunidades e redução de custos, as margens de lucro diminuem\n- nesta fase necessita de atualização do produto\n\n== Declíneo\n- decadência no volume de vendas, superado pela concorrência, ou alguma mudança maior na sociedade ou o produto deixou de ser interessante\n\n====== fases de um projeto:\n- Conceitual, planejamento, implementação e encerramento\nou\n- Inicio, organização e preparação, execução do trabalho e encerramento\n\n=== fazes:\n- onde obtém se a idéia, custos\n= Termo de abertura\n\n- detalhamento e geração do plano e de pessoal\n= Plano de gerenciamento\n\n- execução do projeto\n= Entregas aceitas\n\n- encerramento\n= Arquivamento dos documentos (o que deu certo e errado)\n\n\n========== 4 Fases do projeto\n- a divisão em fases auxilia um melhor planejamento, execução, monitoramento e controle\n\n- o conceito de fases pode caracterizar várias entregas de resultados ao longo do projeto\n\n- um projeto grande pode ser visto como a sequência de pequenos projetos\n\n=========== 5 Grupos de processos e gerenciamento de projetos\n- iniciar, planejar, executar, monitorar e controlar, encerrar\n\n=== Iniciação\n- Objetivos maiores\n- principais partes interessadas\n- orçamento preliminar\n- data aproximada\n- riscos preliminares\n- aprovação (a partir de conversa com os envolvidos)\n\n=== Planejamento\n- nesse processo os requisitos são coletados em mais detalhes\n- pode ser subdividido em partes menores, denominado de EAP (estrutura analítica de projeto)\n\n- Detalha objetivos\n- Detalha requisitos\n- Descobra escopo EAP\n- cria cronograma\n- Detalha orçamento\n- Cria métricas\n- Define a comunicaçãp\n- Detalha riscos\n- Define compras\n\n=== Execução do projeto / monitoramento e controle\n- neste grupo ocorre a orientação e execução\n- eventualmente coisas inesperadas acontecem, necessitando solicitar mudanças no projeto\n\n- Executa o cronograma\n- Verifica o cronograma\n- Orienta, dá a direção\n- Assegura as métricas\n- Verifica as métricas\n- gerencia as partes interessadas\n- Realiza contratações\n- Aceita ou rejeita alterações e replaneja\n\n=== Emcerramento\n- são executadas atividades visando o fechamento do projeto ou de uma de suas fases\n- pode ser exigira uma formalização da aceitação das entregas fei\n- Obtém aprovação das entregas e do atingimento dos objetivos\n- Encerra contratações\n- Atualiza a documentação\n\n\n\n\n\n\n\n============== Aula 2 ============== \n\nGerenciamento de escopo, tempo, custo, qualidade, riscos, entre outros.\n\n======= Escopo =======\n- O escopo dá a forma ao projeto, \n\n=== itens do escopo\n(grupo 1: processo de planejamento)\n- Coletar requisitos \n- definir escopo\n- criar EAP (Estrutura Analítica do Projeto)\n\n(grupo2: monitoramento e controle)\n- controlar escopo \n- verificar escopo\n\n== Coleta de requisitos:\n- Deve-se primeiramente identificar quais são as partes interessadas no projeto, pois delas virão as informações\n- é entender o que as partes interessadas desejam do projeto e do produto do projeto, é uma das primeiras atividades do processo de planejamento\n- a não observância de qualquer requisito pode levar ao fracasso do projeto\n- Coletar requisitos não é aceitar tudo, deve-se controlar\n- Remover requisitos também é outro fator de sucesso\n- Não coletar palavras vagas (ex.: \"rápido\" o que é rápido?)\n\n- Quais seriam as partes interessadas?\n- Quais ps requisitos serão removidos?\n- Como colocar os requisitos mensuráveis?\n\n\n\n= Algumas ferramentas usadas (PMI)\n- entrevista\n- Dinâmica de grupo\n- Questionários e pesquisas\n- Observações\n- Protótipos\n\n- Ainda é necessário criar o plano de gerenciamento dos requisitos, que estabelece como os requisitos serão documentados\n- Outro documento é a Matriz de Rastreabilidade de Requisito, seria um índice onde pode-se localizar determinados assuntos do escopo\n\n\n==== Definição do escopo\n- Acontece dentro do grupo de processos de planejamento\n- \n\n\n============== A ============== \n\n============== A ============== \n\n============== A ============== \n\n============== A ============== \n\n============== A ============== \n\n============== A ============== ",
+			"file": "/D/Joao_files/Documentos/Uninter/Gestao de projetos.txt",
+			"file_size": 6953,
+			"file_write_time": 132551318104918725,
+			"settings":
+			{
+				"buffer_size": 6652,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Joao_files/Documentos/Desenvolvimento/CursoWeb_2021",
+		"/D/Joao_files/Documentos/Desenvolvimento/CursoWeb_2021/PrimeiroProjeto"
+	],
+	"file_history":
+	[
+		"/D/Joao_files/Documentos/Solis/31/FrmIncentiveSearch.class",
+		"/D/Joao_files/Documentos/Desenvolvimento/CursoWeb_2021/Projeto Web/index.html",
+		"/D/Joao_files/Documentos/Desenvolvimento/CursoWeb_2021/Project_Aula/css/estilo-teste.css",
+		"/D/Joao_files/Documentos/Desenvolvimento/CursoWeb_2021/Project_Aula/index.html",
+		"/D/Joao_files/Documentos/Desenvolvimento/CursoWeb_2021/Aula_7/index.html",
+		"/D/Joao_files/Documentos/Uninter/Gestao de projetos.txt",
+		"/D/Joao_files/Documentos/Uninter/Ingles Basico",
+		"/D/Joao_files/Documentos/Uninter/Empreendedorismo.txt",
+		"/C/Users/Joao/AppData/Local/Temp/Rar$DIa0.588/-+- PassssWord FilE 4 ExTraCtioN 77543210.txt",
+		"/C/Users/Joao/AppData/Local/Temp/Rar$DIa0.369/-+- PassssWord FilE 4 ExTraCtioN 77543210.txt",
+		"/D/Joao_files/Documentos_2/windows/seriais.txt",
+		"/D/Joao_files/Documentos_2/stacione/diversos/﻿infoGerencia.txt",
+		"/D/Joao_files/Documentos/Shell/configSistema",
+		"/D/Joao_files/Documentos/Desenvolvimento/NetBeansProjectsWeb/blablabla/src/dominio/Cidade.java",
+		"/D/Joao_files/Desktop/asd asd.txt",
+		"/D/Joao_files/Desktop/oneWay.txt"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"estratégia genérica",
+			"horizon",
+			"vantagen",
+			"fórmulas para identificar oportunidades",
+			"SWOT"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "D:\\Joao_files\\Documentos\\Desenvolvimento\\CursoWeb_2021"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Notes.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 359,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								359,
+								359
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "PrimeiroProjeto/projeto.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 403,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								145,
+								148
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "PrimeiroProjeto/imagens.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 172,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								154,
+								154
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "PrimeiroProjeto/link.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 92,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								74,
+								74
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "PrimeiroProjeto/Index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 94,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								53,
+								53
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "PrimeiroProjeto/desafio1.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 939,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								939,
+								931
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/D/Joao_files/Documentos/Uninter/Gestao de projetos.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6652,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6447,
+								6447
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 3740.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 159.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
