@@ -1,0 +1,67 @@
+
+/* -- def --*/
+body{
+	background: #d2d2c1 url('img/fundo.png');
+	font: 14px arial, helvetica, sans-serif;
+}
+
+a{
+	color: #4b566a;
+	text-decoration: none;
+	font-weight: bold;
+	padding: 5px;
+}
+
+form{
+	color: #4b566a;
+}
+
+h1{
+	color: #828271;
+	font-size: 1.2em; /*recomendado utilizar 'em' pois ajusta proporcional*/ 
+}
+
+p{
+	color: #696969;
+	text-align: justify;
+}
+
+/* ------ IDs --------- */
+#principal{
+	width: 900px;
+}
+
+#menu{
+	background: #C5C5B2;
+	font-size: 18px;
+	padding: 18px;
+}
+
+#conteudo{
+	background: #e8e8e8;
+	padding: 20px;
+}
+
+#rodape{
+	text-align: center;
+}
+
+/* ------- Classes --------- */
+
+.centralizar{
+	text-align: center;
+}
+
+.bordas{
+	border-color: #c3c3ae;
+	border-width: 10px;
+	border-style: groove;
+}
+
+.direito{
+	object-position: left;
+}
+
+.justificado{
+	text-align: justify;
+}
