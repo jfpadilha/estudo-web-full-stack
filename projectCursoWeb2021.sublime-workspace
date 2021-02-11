@@ -1,0 +1,630 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"position",
+				"object-position\tproperty"
+			],
+			[
+				"borda",
+				"borda-inline-block"
+			],
+			[
+				"bor",
+				"borda"
+			],
+			[
+				"borda-",
+				"borda-inline"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"MAG",
+				"margin-left\tproperty"
+			],
+			[
+				"MARG",
+				"margin-right\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"padding-",
+				"padding-top\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"pos",
+				"object-position\tproperty"
+			],
+			[
+				"borde",
+				"border-style\tproperty"
+			],
+			[
+				"border-c",
+				"border-color\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"backg",
+				"background\tproperty"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"for",
+				"formConteudo"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"f",
+				"formMenu"
+			],
+			[
+				"backgroun",
+				"background-image\tproperty"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"fix",
+				"fixed"
+			],
+			[
+				"rep",
+				"repeat-x"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"text-d",
+				"text-decoration\tproperty"
+			],
+			[
+				"i",
+				"italico"
+			],
+			[
+				"font-s",
+				"font-style\tproperty"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"bord",
+				"border-width\tproperty"
+			],
+			[
+				"fo",
+				"formConteudo"
+			],
+			[
+				"con",
+				"conteudo"
+			],
+			[
+				"id",
+				"id\tAttr"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"ali",
+				"align\tAttr"
+			],
+			[
+				"wi",
+				"width\tAttr"
+			],
+			[
+				"b",
+				"border\tAttr"
+			],
+			[
+				"t",
+				"table\tTag"
+			],
+			[
+				"val",
+				"value\tAttr"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"em",
+				"em\tTag"
+			],
+			[
+				"e",
+				"em\tTag"
+			],
+			[
+				"ro",
+				"rowspan\tAttr"
+			],
+			[
+				"th",
+				"th\tTag"
+			],
+			[
+				"he",
+				"height\tAttr"
+			],
+			[
+				"h",
+				"h4\tTag"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"u",
+				"ul\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/joao/Joao_files/Documentos/Linux/git.txt",
+			"settings":
+			{
+				"buffer_size": 6656,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/joao/Joao_files/Documentos/Desenvolvimento/Estudo-teste-repositirio/gitnapratica.txt",
+			"settings":
+			{
+				"buffer_size": 38,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/joao/Joao_files/Documentos/Desenvolvimento/Estudo-teste-repositirio/.gitignore",
+			"settings":
+			{
+				"buffer_size": 9,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/joao/Joao_files/Documentos/Desenvolvimento/Estudo-teste-repositirio/file2.txt",
+			"settings":
+			{
+				"buffer_size": 17,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/joao/Joao_files/Documentos/Desenvolvimento/Estudo-teste-repositirio/file3.txt",
+			"settings":
+			{
+				"buffer_size": 242,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/joao/Joao_files/Documentos/Desenvolvimento/CursoWeb_2021/Projeto",
+		"/home/joao/Joao_files/Documentos/Desenvolvimento/CursoWeb_2021/Projeto/css3"
+	],
+	"file_history":
+	[
+		"/home/joao/Joao_files/Documentos/Desenvolvimento/CursoWeb_2021/Projeto/css3/bordas.html",
+		"/home/joao/Joao_files/Documentos/Linux/git.txt",
+		"/home/joao/Joao_files/Documentos/Linux/1instalacaoUbuntu.txt",
+		"/home/joao/Joao_files/Documentos/Desenvolvimento/CursoWeb_2021/cc3-intermediario/elementos-flutuantes-pratica.html",
+		"/home/joao/Joao_files/Documentos/Desenvolvimento/CursoWeb_2021/cc3-intermediario/elementos-inline-block.html",
+		"/home/joao/Joao_files/Documentos/Desenvolvimento/CursoWeb_2021/cc3-intermediario/posicionamento-absoluto-fixo.html",
+		"/home/joao/Joao_files/Documentos_2/Solis/aux",
+		"/D/Joao_files/Documentos/Desenvolvimento/CursoWeb_2021/projeto-anna-bella/estilo.css",
+		"/D/Joao_files/Documentos/Desenvolvimento/CursoWeb_2021/cc3-intermediario/index.html",
+		"/D/Joao_files/Documentos/Desenvolvimento/CursoWeb_2021/projeto-anna-bella/index.html",
+		"/D/Joao_files/Documentos/Desenvolvimento/CursoWeb_2021/projeto-anna-bella/biografia.html",
+		"/D/Joao_files/Documentos/Desenvolvimento/CursoWeb_2021/projeto-anna-bella/campanhas.html",
+		"/D/Joao_files/Documentos/Desenvolvimento/CursoWeb_2021/projeto-anna-bella/contato.html",
+		"/D/Joao_files/Documentos/Desenvolvimento/CursoWeb_2021/css3/fonte-cores.html",
+		"/D/Joao_files/Documentos/Desenvolvimento/CursoWeb_2021/css3/css-pg2.html",
+		"/D/Joao_files/Documentos/Desenvolvimento/CursoWeb_2021/css3/estilo.css",
+		"/D/Joao_files/Documentos/Desenvolvimento/CursoWeb_2021/css3/css-pg1.html",
+		"/D/Joao_files/Documentos/Desenvolvimento/CursoWeb_2021/css3/estilos-textos.html",
+		"/D/Joao_files/Documentos/Desenvolvimento/CursoWeb_2021/css3/tamanho-texto.html",
+		"/D/Joao_files/Documentos/Desenvolvimento/CursoWeb_2021/css3/bordas.html",
+		"/D/Joao_files/Documentos/Desenvolvimento/CursoWeb_2021/css3/div_span.html",
+		"/D/Joao_files/Documentos/Desenvolvimento/CursoWeb_2021/css3/notacoes/notesCss",
+		"/D/Joao_files/Documentos/Desenvolvimento/CursoWeb_2021/css3/css-externo.html",
+		"/D/Joao_files/Documentos/Desenvolvimento/CursoWeb_2021/css3/fundo.html",
+		"/D/Joao_files/Documentos/Desenvolvimento/CursoWeb_2021/css3/classes_ids.html",
+		"/D/Joao_files/Documentos/Desenvolvimento/CursoWeb_2021/css3/inline_style.html",
+		"/D/Joao_files/Documentos/Desenvolvimento/CursoWeb_2021/PrimeiraParte-HTML5/ProjetoUnes_AtividadeHtml/index.html",
+		"/D/Joao_files/Documentos/Desenvolvimento/CursoWeb_2021/PrimeiraParte-HTML5/tabelas.html",
+		"/D/Joao_files/Documentos/Desenvolvimento/CursoWeb_2021/PrimeiraParte-HTML5/ProjetoUnes_AtividadeHtml/quemsomos.html",
+		"/D/Joao_files/Documentos/Desenvolvimento/CursoWeb_2021/PrimeiraParte-HTML5/desafio1.html",
+		"/D/Joao_files/Documentos/Desenvolvimento/CursoWeb_2021/PrimeiraParte-HTML5/formulario.html",
+		"/D/Joao_files/Documentos/Desenvolvimento/CursoWeb_2021/PrimeiraParte-HTML5/ProjetoUnes_AtividadeHtml/contato.html",
+		"/D/Joao_files/Documentos/Desenvolvimento/CursoWeb_2021/PrimeiraParte-HTML5/caracteresEspeciais.html",
+		"/D/Joao_files/Documentos/Desenvolvimento/CursoWeb_2021/PrimeiraParte-HTML5/projeto.html",
+		"/D/Joao_files/Documentos/Desenvolvimento/CursoWeb_2021/PrimeiraParte-HTML5/caracteresEspeciais",
+		"/D/Joao_files/Documentos/Desenvolvimento/CursoWeb_2021/PrimeiroProjeto-HTML5/Index.html",
+		"/D/Joao_files/Documentos/Desenvolvimento/CursoWeb_2021/PrimeiroProjeto-HTML5/projeto.html",
+		"/D/Joao_files/Documentos/Desenvolvimento/CursoWeb_2021/PrimeiroProjeto-HTML5/formulario.html",
+		"/D/Joao_files/Documentos/Desenvolvimento/CursoWeb_2021/PrimeiroProjeto-HTML5/tabelas.html",
+		"/D/Joao_files/Documentos/Desenvolvimento/CursoWeb_2021/Notes.html",
+		"/D/Joao_files/Documentos/Desenvolvimento/CursoWeb_2021/PrimeiroProjeto/desafio1.html",
+		"/D/Joao_files/Documentos/Desenvolvimento/CursoWeb_2021/PrimeiroProjeto/Index.html",
+		"/D/Joao_files/Documentos/Desenvolvimento/CursoWeb_2021/PrimeiroProjeto/projeto.html",
+		"/D/Joao_files/Documentos/Desenvolvimento/CursoWeb_2021/PrimeiroProjeto/tabelas.html",
+		"/D/Joao_files/Documentos/Uninter/Gestao de projetos.txt",
+		"/D/Joao_files/Documentos/Desenvolvimento/CursoWeb_2021/PrimeiroProjeto/imagens.html",
+		"/D/Joao_files/Documentos/Desenvolvimento/CursoWeb_2021/PrimeiroProjeto/contato.html",
+		"/D/Joao_files/Documentos/Solis/31/FrmIncentiveSearch.class",
+		"/D/Joao_files/Documentos/Desenvolvimento/CursoWeb_2021/Projeto Web/index.html",
+		"/D/Joao_files/Documentos/Desenvolvimento/CursoWeb_2021/Project_Aula/css/estilo-teste.css",
+		"/D/Joao_files/Documentos/Desenvolvimento/CursoWeb_2021/Project_Aula/index.html",
+		"/D/Joao_files/Documentos/Desenvolvimento/CursoWeb_2021/Aula_7/index.html",
+		"/D/Joao_files/Documentos/Uninter/Ingles Basico",
+		"/D/Joao_files/Documentos/Uninter/Empreendedorismo.txt",
+		"/C/Users/Joao/AppData/Local/Temp/Rar$DIa0.588/-+- PassssWord FilE 4 ExTraCtioN 77543210.txt",
+		"/C/Users/Joao/AppData/Local/Temp/Rar$DIa0.369/-+- PassssWord FilE 4 ExTraCtioN 77543210.txt",
+		"/D/Joao_files/Documentos_2/windows/seriais.txt",
+		"/D/Joao_files/Documentos_2/stacione/diversos/﻿infoGerencia.txt",
+		"/D/Joao_files/Documentos/Shell/configSistema",
+		"/D/Joao_files/Documentos/Desenvolvimento/NetBeansProjectsWeb/blablabla/src/dominio/Cidade.java",
+		"/D/Joao_files/Desktop/asd asd.txt",
+		"/D/Joao_files/Desktop/oneWay.txt"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			";;\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/joao/Joao_files/Documentos/Linux/git.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6656,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2520.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/joao/Joao_files/Documentos/Desenvolvimento/Estudo-teste-repositirio/gitnapratica.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 38,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								38,
+								38
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/joao/Joao_files/Documentos/Desenvolvimento/Estudo-teste-repositirio/.gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Git Formats/Git Ignore.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/joao/Joao_files/Documentos/Desenvolvimento/Estudo-teste-repositirio/file2.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 17,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								17,
+								17
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/home/joao/Joao_files/Documentos/Desenvolvimento/Estudo-teste-repositirio/file3.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 242,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								242,
+								242
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "projectCursoWeb2021.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 252.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
