@@ -1,0 +1,120 @@
+
+
+/*========== Modelo de caixa ===========*/
+/*
+/* ---- Classes --- */
+.conteudo {
+	border: 1px solid red;
+
+/* ------ utilizacao do padding ---- */
+
+/*	padding-top: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px; */
+
+/*	padding: 5px 45px;	/*aplica: cima/baixo e esquerda/direita */
+
+/*	padding: 20px 15px 10px 25px; /*aplica diferentemente nos 4 lados*/
+
+	padding: 20px;	/*aplica o mesmo valor aos 4 lados */
+
+/* ------ utilizacao do margin ---- */
+/*	margin-top: 80px;
+	margin-right: 200px;
+	margin-left: 40px;
+	margin-bottom: 50px */
+
+	/*margin: 10px; 		mesma medida para todos os lados*/
+
+	margin: -8px 20px 20px -8px;	/*configuravel lado a lado*/
+
+	width: 150px; /*largura total da classe */
+}
+
+.conteudo2 {
+	border: solid red 1px;
+	margin: 50px;
+	width: 150px;
+}
+
+/*---------- MODELO-CAIXA ------------*/
+
+.conteudoElemento {
+	background: #7FFFD4;
+	border: 1px solid gray;
+	width: 150px;		/*largura para a caixa*/
+	height: 150px;		/*altura da caixa*/
+	float: left;		/*Faz a caixa ficar flutuante acima dos objetos*/
+	margin: 10px;		/*espacamento ao lado de fora da caixa*/
+}
+
+.conteudoElemento1 {
+	background: orange;
+	border: 1px solid gray;
+	width: 150px;		/*largura para a caixa*/
+	height: 150px;		/*altura da caixa*/
+	float: right;		/*Faz a caixa ficar flutuante acima dos objetos*/
+	margin: 10px;		/*espacamento ao lado de fora da caixa*/
+}
+
+.conteudoElemento-zero{
+	background: gray;
+	border: 1px solid red;
+	width: 150px;		/*largura para a caixa*/
+	height: 150px;		/*altura da caixa*/
+	float: left;		/*Faz a caixa ficar flutuante acima dos objetos*/
+	margin: 10px;		/*espacamento ao lado de fora da caixa*/
+}
+
+.clear{
+	clear: both;		/*limpar o conteudo flutuante (right, left, center e both) */
+}						
+
+#principal{
+	border: 6px red solid;
+	padding: 15px;
+	background: green;
+	font-size: 1.1em;
+}
+
+/*-------- ELEMENTOS FLUTUANTES PRATICA ------------*/
+
+body{
+	background: #f4f4f4;
+}
+
+#principal_a{
+	border: 1px red solid;
+	padding: 15px;
+	background: #40E0D0;
+	/*font-size: 1.2em;*/
+	width: 700px;
+}
+
+a{
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.noticia1{
+	background: #e5e5e5; 
+	padding: 8px;
+	width: 200px;
+	margin: 6px;
+	float: left;
+
+}
+
+.fotos{
+	background: #FFFACD;
+	padding: 10px;
+}
+
+.img-galeria{
+	background: white;
+	width: 200px;
+	padding: 5px;
+	float: left;
+	margin: 8px;
+}

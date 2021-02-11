@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Elementos Inline-block</title>
+		<meta charset="utf-8">
+
+		<style type="text/css">
+
+			.borda{
+				border: 1px solid orange;
+			}
+
+			.borda-inline{
+				border: 1px solid orange;
+				display: inline; 		/*DISPLAY altera o comportamento do bloco*/
+			}
+
+			.borda-inline-block{
+				border: 1px solid orange;
+				display: inline; 		/*DISPLAY altera o comportamento do bloco*/
+			}
+
+			
+
+		</style>
+		
+	</head>
+
+	<body>
+
+		<h1 class="borda">H1 Bloco 1</h1>
+		<h1 class="borda">H1 Bloco 2</h1>
+		<div class="borda"> DIV Bloco div 3</div>
+		<div class="borda"> DIV Bloco div 4</div>
+
+		<br><br><hr><br><br>
+
+		<h1 class="borda-inline">H1 display inline 1</h1>
+		<h1 class="borda-inline">H1 display inline 2</h1>
+		<div class="borda-inline"> DIV display inline div 3</div>
+		<div class="borda-inline"> DIV display inline div 4</div>
+
+		<br><br><hr><br><br>
+
+		<span class="borda">Bloco span eh do tipo inline</span>
+
+		<span class="borda-inline-block">span com propriedade inline-block 1</span>
+		<span class="borda-inline-block">span com propriedade inline-block 2</span>
+		<span class="borda-inline-block">span com propriedade inline-block 3</span>
+		<!-- inline block hibrido, muda a linha quando acabar o espaco -->
+
+	</body>
+</html>

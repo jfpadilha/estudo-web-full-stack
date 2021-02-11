@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+	<html>
+	<head>
+		<title>Posicionamento (static, relative, absolute e fixed</title>
+		<meta charset="utf-8">
+		
+		<style type="text/css">
+			
+			#container{
+				background: #fff;
+				width: 700px;
+				border: 2px red solid;
+				margin: 10px auto;
+				padding: 10px;
+			}
+
+			body{
+				background: #007fc7;
+				border: white 1px solid;
+			}
+
+			h1{
+				position: static; /*padrao eh o static*/
+			}
+
+			p{
+				width: 300px;
+				position: relative;
+				margin: 10px;
+				text-align: justify;
+				/*border: 1px red solid;*/
+				font-family: arial, sans-serif;
+				font-size: 0.8em;
+			}
+
+			.fixed{	/*o elemento absolute sempre  posicionado baseado no conteiner que ele está dentro diferente do estatico*/
+				border: blue solid 1px;
+				background: #f2f2f2;
+				position: fixed; /*o objeto fica fixo em relação a janela do navegador nao move com a rolagem*/
+				top: 0px;
+				right: 80px;
+			}			
+
+			.absoluto{	/*o elemento absolute sempre  posicionado baseado no conteiner que ele está dentro diferente do estatico*/
+				border: blue solid 1px;
+				background: #f2f2f2;
+				position: absolute; /*O objeto sai do fluxo normal da pagina e age como se estivesse sozinho*/
+				top: 80px;
+				right: 80px;
+						/* Ao usar posicao relativa eh necessario definir algumas propriedades sao: top, right, bottom (inferior) e left*/
+						/*top: 20px;*/
+						/*left: 120px; pode ser usado valores positivos e negativos*/
+						/*bottom: 15px;*/
+			}
+
+		</style>
+
+	</head>
+
+	<body>
+
+		<div id="container">
+			
+			<h1>Posicionamento</h1>
+
+			<p>
+				P1 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi pellentesque nulla non odio fermentum ornare. Phasellus non fringilla nibh. Donec et tristique lorem, eu aliquam tellus. Sed ac urna elit. Sed varius sagittis lacinia. Nullam id felis eu ligula gravida mollis. Integer porttitor mi id nunc elementum, sit amet tempus leo placerat. 
+			</p>
+
+			<p class="fixed">
+				P2 TESTANDO:: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi pellentesque nulla non odio fermentum ornare. Phasellus non fringilla nibh. Donec et tristique lorem, eu aliquam tellus. Sed ac urna elit. Sed varius sagittis lacinia. Nullam id felis eu ligula gravida mollis. Integer porttitor mi id nunc elementum, sit amet tempus leo placerat. 
+			</p>
+
+			<p>
+				P3 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi pellentesque nulla non odio fermentum ornare. Phasellus non fringilla nibh. Donec et tristique lorem, eu aliquam tellus. Sed ac urna elit. Sed varius sagittis lacinia. Nullam id felis eu ligula gravida mollis. Integer porttitor mi id nunc elementum, sit amet tempus leo placerat. 
+			</p>
+
+			<p>
+				P3 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi pellentesque nulla non odio fermentum ornare. Phasellus non fringilla nibh. Donec et tristique lorem, eu aliquam tellus. Sed ac urna elit. Sed varius sagittis lacinia. Nullam id felis eu ligula gravida mollis. Integer porttitor mi id nunc elementum, sit amet tempus leo placerat. 
+			</p>
+
+			<p>
+				P3 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi pellentesque nulla non odio fermentum ornare. Phasellus non fringilla nibh. Donec et tristique lorem, eu aliquam tellus. Sed ac urna elit. Sed varius sagittis lacinia. Nullam id felis eu ligula gravida mollis. Integer porttitor mi id nunc elementum, sit amet tempus leo placerat. 
+			</p>
+
+			<p>
+				P3 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi pellentesque nulla non odio fermentum ornare. Phasellus non fringilla nibh. Donec et tristique lorem, eu aliquam tellus. Sed ac urna elit. Sed varius sagittis lacinia. Nullam id felis eu ligula gravida mollis. Integer porttitor mi id nunc elementum, sit amet tempus leo placerat. 
+			</p>
+
+			<p>
+				P3 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi pellentesque nulla non odio fermentum ornare. Phasellus non fringilla nibh. Donec et tristique lorem, eu aliquam tellus. Sed ac urna elit. Sed varius sagittis lacinia. Nullam id felis eu ligula gravida mollis. Integer porttitor mi id nunc elementum, sit amet tempus leo placerat. 
+			</p>
+
+			<p>
+				P3 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi pellentesque nulla non odio fermentum ornare. Phasellus non fringilla nibh. Donec et tristique lorem, eu aliquam tellus. Sed ac urna elit. Sed varius sagittis lacinia. Nullam id felis eu ligula gravida mollis. Integer porttitor mi id nunc elementum, sit amet tempus leo placerat. 
+			</p>
+
+			<p>
+				P3 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi pellentesque nulla non odio fermentum ornare. Phasellus non fringilla nibh. Donec et tristique lorem, eu aliquam tellus. Sed ac urna elit. Sed varius sagittis lacinia. Nullam id felis eu ligula gravida mollis. Integer porttitor mi id nunc elementum, sit amet tempus leo placerat. 
+			</p>
+
+			<p>
+				P3 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi pellentesque nulla non odio fermentum ornare. Phasellus non fringilla nibh. Donec et tristique lorem, eu aliquam tellus. Sed ac urna elit. Sed varius sagittis lacinia. Nullam id felis eu ligula gravida mollis. Integer porttitor mi id nunc elementum, sit amet tempus leo placerat. 
+			</p>
+
+			<p>
+				P3 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi pellentesque nulla non odio fermentum ornare. Phasellus non fringilla nibh. Donec et tristique lorem, eu aliquam tellus. Sed ac urna elit. Sed varius sagittis lacinia. Nullam id felis eu ligula gravida mollis. Integer porttitor mi id nunc elementum, sit amet tempus leo placerat. 
+			</p>
+
+			<p>
+				P3 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi pellentesque nulla non odio fermentum ornare. Phasellus non fringilla nibh. Donec et tristique lorem, eu aliquam tellus. Sed ac urna elit. Sed varius sagittis lacinia. Nullam id felis eu ligula gravida mollis. Integer porttitor mi id nunc elementum, sit amet tempus leo placerat. 
+			</p>						
+
+
+
+
+		</div>
+
+	</body>
+</html>
