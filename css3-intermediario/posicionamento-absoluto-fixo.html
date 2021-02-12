@@ -5,6 +5,10 @@
 		<meta charset="utf-8">
 		
 		<style type="text/css">
+
+			<!-- 
+				Posicao "relative":
+			 -->
 			
 			#container{
 				background: #fff;
@@ -12,6 +16,8 @@
 				border: 2px red solid;
 				margin: 10px auto;
 				padding: 10px;
+				position: relative; /*faz com que uma div absoluta fique dentro dele*/
+				/*O container precisa ter uma posição, relativa, absoluta ou fixa, para que possamos alinhas um elemento absoluto baseado nele*/
 			}
 
 			body{
@@ -37,8 +43,8 @@
 				border: blue solid 1px;
 				background: #f2f2f2;
 				position: fixed; /*o objeto fica fixo em relação a janela do navegador nao move com a rolagem*/
-				top: 0px;
-				right: 80px;
+				top: 80px;
+				right: 0px;
 			}			
 
 			.absoluto{	/*o elemento absolute sempre  posicionado baseado no conteiner que ele está dentro diferente do estatico*/
@@ -46,7 +52,7 @@
 				background: #f2f2f2;
 				position: absolute; /*O objeto sai do fluxo normal da pagina e age como se estivesse sozinho*/
 				top: 80px;
-				right: 80px;
+				right: 20px;
 						/* Ao usar posicao relativa eh necessario definir algumas propriedades sao: top, right, bottom (inferior) e left*/
 						/*top: 20px;*/
 						/*left: 120px; pode ser usado valores positivos e negativos*/
