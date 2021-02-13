@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"back",
+				"background\tproperty"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
 				"backgrou",
 				"background\tproperty"
 			],
@@ -88,16 +96,8 @@
 				"background\tproperty"
 			],
 			[
-				"font",
-				"font-weight\tproperty"
-			],
-			[
 				"for",
 				"formConteudo"
-			],
-			[
-				"back",
-				"background-color\tproperty"
 			],
 			[
 				"f",
@@ -231,6 +231,41 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "projeto-tecblog/index.html",
+			"settings":
+			{
+				"buffer_size": 378,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css3-intermediario/posicionamento-absoluto-fixo.html",
+			"settings":
+			{
+				"buffer_size": 6257,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "projeto-tecblog/estilo.css",
+			"settings":
+			{
+				"buffer_size": 129,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css3-intermediario/elementos-flutuantes-pratica.html",
+			"settings":
+			{
+				"buffer_size": 2123,
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -265,7 +300,8 @@
 	"expanded_folders":
 	[
 		"/home/joao/Joao_files/Documentos/Desenvolvimento/CursoWeb_2021",
-		"/home/joao/Joao_files/Documentos/Desenvolvimento/CursoWeb_2021/css3-intermediario"
+		"/home/joao/Joao_files/Documentos/Desenvolvimento/CursoWeb_2021/css3-intermediario",
+		"/home/joao/Joao_files/Documentos/Desenvolvimento/CursoWeb_2021/projeto-tecblog"
 	],
 	"file_history":
 	[
@@ -386,8 +422,123 @@
 	"groups":
 	[
 		{
+			"selected": 2,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "projeto-tecblog/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 378,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								284,
+								284
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css3-intermediario/posicionamento-absoluto-fixo.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 6257,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 630.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "projeto-tecblog/estilo.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 129,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								129,
+								129
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "css3-intermediario/elementos-flutuantes-pratica.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2123,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -467,7 +618,7 @@
 	"show_minimap": true,
 	"show_open_files": false,
 	"show_tabs": true,
-	"side_bar_visible": true,
+	"side_bar_visible": false,
 	"side_bar_width": 252.0,
 	"status_bar_visible": true,
 	"template_settings":
