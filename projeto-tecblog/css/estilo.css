@@ -19,11 +19,44 @@ body{
 #area-cabecalho{
 	background: #f7b600;
 	padding: 15px;
-	text-align: center;
+	text-align: center;	
 }
 
 #area-logo, #area-menu{
 	padding: 10px;
+}
+
+#area-principal{
+	width: 820px;
+	margin: 0 auto; /*0 super inf e auto laterais*/
+}
+
+#area-postagens, #area-lateral{
+	background: orange;
+}
+
+#area-postagens{
+	width: 600px;
+	float: left;
+}
+
+#area-lateral{
+	width: 200px;
+	float: right;
+}
+
+.postagem{
+	padding: 20px;
+	margin-bottom: 20px;
+	background: white;
+}
+
+#rodape{
+	clear: both;	/*remover o efeito float e ficar somente abaixo*/
+	text-align: center;
+	padding: 15px;
+	background: #CCC;
+
 }
 
 /* ======Formatacao do menu ==========*/
