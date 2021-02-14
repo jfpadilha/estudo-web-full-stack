@@ -1,0 +1,56 @@
+/*Limpar formatacoes padroes*/
+*{
+	margin: 0;
+	padding: 0;	
+}
+
+
+
+/*========= IDs =============*/
+
+body{
+	font-size: 1em; /*equiuvale a 16px*/
+	font-family: "arial", "verdana", sans-serif;
+	background: #e8e4e8;
+}
+
+/*========= LAYOUT ========*/
+
+#area-cabecalho{
+	background: #f7b600;
+	padding: 15px;
+	text-align: center;
+}
+
+#area-logo, #area-menu{
+	padding: 10px;
+}
+
+/* ======Formatacao do menu ==========*/
+
+a{
+	text-decoration: none;
+}
+
+a:link, a:visited{
+	color: white;
+	padding: 8px 12px;
+}
+
+a:hover{
+	color: #f7b600;
+	background: white;
+}
+
+
+/*======== FORMATACOES GERAIS ============*/
+h1{
+	color: #4e4e4e;
+	font-size: 2.5em;
+}
+
+.branco{
+	color: white;
+}
+
+
