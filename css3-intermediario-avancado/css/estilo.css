@@ -1,6 +1,21 @@
-/*************
+/******************************
 Seletor Universal */
 *{
 	border: 1px solid red;
+}
 
+/******************************
+Seletor de texto*/
+h1{
+	color: blue;
+}
+
+/*******************************
+Seletor de classe */
+.verde{
+	color: green;
+}
+
+p.verde{	/*Faz com que esse efeito "verde" só seja aplicado em parágrafos*/
+	color: green;
 }
