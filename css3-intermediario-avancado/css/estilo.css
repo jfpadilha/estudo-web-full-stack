@@ -1,21 +1,70 @@
-/******************************
-Seletor Universal */
+/*************************************
+Seletor Universal, aplica-se a todos os elementos da pagina*/
 *{
-	border: 1px solid red;
+	/*border: 1px solid red;*/
 }
 
-/******************************
+/*************************************
 Seletor de texto*/
 h1{
 	color: blue;
 }
 
-/*******************************
-Seletor de classe */
-.verde{
+/*************************************
+Seletor de classe*/
+.verde{		/*Aplica o estilo em qualquer chamada de cclasse "verde*/
 	color: green;
 }
 
 p.verde{	/*Faz com que esse efeito "verde" só seja aplicado em parágrafos*/
 	color: green;
+	font-size: 3em;
+}
+
+/*************************************
+Seletor de ID*/
+#cabecalho{
+	border: 1px solid blue;
+}
+
+
+/**************************************
+Seletor de filho*/
+li>a{	/*sleecionar um link "a" que é filho de "li" que eh maior, usado em menus */
+	color: red;
+	text-decoration: none;
+}
+
+span>a{		/*Aplicar feito no "a" desde que seja filho de "span" */
+	color: orange;
+	text-decoration: none;
+	font-size: 1.2em;
+	font-weight: 900;
+}
+
+/***************************************
+Seletor de descendente */
+div a{	/*Aplica efeito em "a" sendo descendente de "li" */
+	color: blue;
+	text-decoration: overline;
+	font-size: 1.5em;
+	font-weight: 900;
+	font-style: italic;
+}
+
+/****************************************
+Seletor de irmão adjacente */
+h1+p{		/*executa o efeito ao proximo irmao "p" posterior ao "h1" SOMENTE SE for depois */
+	color: red;
+	font-style: italic;
+	font-family: "arial" Sans-serif;
+}
+
+/*****************************************
+Seletor de irmao geral */
+h2~p{	/*Aplica o efeito a TODOS  os irmaos POSTERIORES ao "h2" */
+	color: pink;
+	font-style: italic;
+	font-weight: 900;
+	font-family: "arial" Sans-serif;
 }
