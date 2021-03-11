@@ -1,0 +1,40 @@
+
+/******* Seletor universal *******
+
+*{
+	border: 1px solid red;
+}
+
+/***** Seletor de texto ********
+h1{
+	color: green;
+} 
+
+/****** Classes ********
+
+/*classe que pode ser utilizada em qualquer chamada
+.verde{
+	color: green;
+}
+
+/*somente para classes aplica se for em paragrafos
+p.verde{	
+	color: green;
+	font-size: 2.5em;
+}
+
+/*****************
+Seletor de filho - aplica a formatação caso o "a" link for filho "li" lista */
+li > a:link, a:visited {
+	text-decoration: none;
+	color: #30332a;
+	background: #CCC;
+	font: bold 15px "verdana", Sans-serif;
+}
+
+li > a:hover{
+	color: white;
+	background: orange;
+	font: italic 20px "verdana", Sans-serif;
+}
+
