@@ -1,31 +1,71 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<title>Seletores 2</title>
-		<meta charset="utf-8">
-		<link rel="stylesheet" type="text/css" href="css/estilo2.css">
-	</head>
-	<body>
+<head>
+	<title>Seletores 2</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="css/estilo2.css">
+</head>
+<body>
 
-		<ul>
-			<li>
-				<a href="seletores2.html">Home</a>
-			</li>
+	<ul>
+		<li>
+			<a href="seletores2.html">Home</a>
+		</li>
 
-			<li>
-				<a href="seletores2.html">Sobre</a>
-			</li>
-		</ul>
+		<li>
+			<a href="seletores2.html">Sobre</a>
+		</li>
+	</ul>
 
+	<hr>
+
+	<div id="cabecalho">
+		<h1>Titulo da página (formatação "h1")</h1>
+
+		<hr>
+
+		<p>Parágrafo 1 da página (p comum) </p>
+	</div>
+
+	<hr>
+
+	<span
+		class="verde">teste span com (class .verde com cor "green")
+	</span>
+
+	<hr>
+		<p class="verde">aplica efeito da class < p > teste parágrafo (.class verde)</p>
+
+	<hr>
+
+	<div>
+		<h2>Titulo da div</h2>
+		<span>
+			<p>
+				<a href="seletores2.html">Seletor descendente (p a:link) </a>
+			</p>			
+		</span>
+	</div>
+
+	<hr>
+
+	<div>
+		<h1>Titulo - seletor adjacente (h 1+p) </h1>
 		<div>
-			<h1>Titulo da página</h1>
-			<p>Parágrafo 1 da página</p>
+			<p>Parágrafo irmão adjacente do < h1 ></p>
 		</div>
+	</div>
 
-		<span class="verde">teste span</span>
-		<p class="verde">teste parágrafo class verde</p>
+	<hr>
 
+	<div>
+		<h1>Titulo do seletor "irmão geral"</h1>
+		<p>Parágrafo 1 depois do "h1" </p>
+		<p>Parágrago 2 depoois do "h1" e dp "p1" </p>
+		<p>
+			Prágrafo do irmão geral depois do "p2"
+		</p>
+	</div>
 
-
-	</body>
+</body>
 </html>

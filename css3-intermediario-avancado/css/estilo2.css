@@ -1,31 +1,43 @@
-
-/******* Seletor universal *******
+/******* Seletor universal *******/
 
 *{
-	border: 1px solid red;
+	/*Aplica formatação para todos os itens da página*/
+	/*border: 1px solid red;*/
+	font-family: "verdana", Sans-serif;
+	background: #D3D3D3;
 }
 
-/***** Seletor de texto ********
+/***** Seletor de texto ********/
 h1{
-	color: green;
+	/*aplica a configuração em tudo que for "h1" */
+	color: #836FFF;
 } 
 
 /****** Classes ********
 
-/*classe que pode ser utilizada em qualquer chamada
+/********classe que pode ser utilizada em qualquer chamada *********/
 .verde{
 	color: green;
+	font-size: 1.2em;
 }
 
-/*somente para classes aplica se for em paragrafos
+/*****somente para classes aplica se for em paragrafos *****/
 p.verde{	
-	color: green;
-	font-size: 2.5em;
+	color: #008000;
+	font-size: 1.5em;
 }
+
+/*********** Seletor de ID ******************/
+/*Seleciona o elemento cujo atributo ID tem o valor especificado*/
+
+#cabecalho{	
+	border: 0.5px solid #FFFF00;
+}
+
 
 /*****************
 Seletor de filho - aplica a formatação caso o "a" link for filho "li" lista */
-li > a:link, a:visited {
+li > a:link, a:visited {	/* Seleciona um "a" que é filho de "li" */
 	text-decoration: none;
 	color: #30332a;
 	background: #CCC;
@@ -38,3 +50,30 @@ li > a:hover{
 	font: italic 20px "verdana", Sans-serif;
 }
 
+/*****************Seletor de descendente***********/
+/*Seleciona qualquer elemento que reside dentro de um outro elemento independente da hierarquia*/
+
+div a:link, a:visited {	/* aplica a formatação no "a" que está dentro de um
+						 "p" mesmo que não seja filho direto */
+	text-decoration: none;
+	color: #8B4513;
+	font: bold 10px;
+}
+
+/********* Seletor de irmão adjacente ************/
+/*** Seleciona um elemento que éo irmão próximo de outro */
+h1+div {		/* Seleciona o primeiro elemento <div> abaixo do <h1>
+			"p" precisa ser o próximo elemento depois do "h1" */
+	color: 	#FFFF00;
+	font-size: 1.8em;
+	font: italic bold;
+}
+
+/************* Seletor de irmão geral *******************/
+/*diferente do irmão adjacente esse basta ser irmão na sequencia
+dentro do mesmo bloco não é necessário ser o próximo */
+h1~p {		/**/
+	color: #008B8B;
+	font-size: 1.2em;
+	font: bolder 1px;
+}
