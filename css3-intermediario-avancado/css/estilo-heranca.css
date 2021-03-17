@@ -1,0 +1,37 @@
+/************************
+Herança e especificidade */
+
+/*Herança: ao aplicar um efeito no "body", nota-se que os elementos contigos 
+dentro do body recebem os mesmos efeitos */
+
+* {
+	background: #DCDCDC;
+	font-family: "verdana", sans-serif;
+
+	/*border: solid 1px blue;	border e background não são herdados */
+}
+
+
+body {
+	color: #FF8C00;
+	font-size: 16px; 
+	/*border: solid 1px blue;	border e background não são herdados*/
+}
+
+/********************************
+Especificidade  */
+
+/* É importante, pois com ela conseguimos trabalhar as regras css
+e saber quais regras serão aplicadas primeiro */
+
+/* Em caso de 2 seletores iguais, sempre o último é o que será aplicado */
+
+#pagina p {
+	color: green !important; 
+}
+
+#pagina p {
+	color: blue;
+}
+
+/*  parado video "54. Herança e especificidade" minutp 10:00; */
